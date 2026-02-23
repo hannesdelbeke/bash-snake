@@ -2,6 +2,8 @@
 
 Super Snake is a fast terminal snake game with score tracking, timed powerups, a beat indicator, and ASCII game-over art.
 
+<img width="361" height="394" alt="image" src="https://github.com/user-attachments/assets/ee7b8830-b9c2-4479-8169-d44c864e4fd6" />
+
 ## Requirements
 - Windows with Git for Windows installed (for `bash.exe`), or any system with Bash.
 
