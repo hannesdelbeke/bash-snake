@@ -1,0 +1,10 @@
+# Runtime logs
+crash.log
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.idea/
+.vscode/
